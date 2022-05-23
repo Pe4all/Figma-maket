@@ -1,0 +1,232 @@
+.main__content{
+    box-sizing: border-box;
+    margin-top: 56px;
+    margin-left: 351px;
+}
+
+h1{
+    font-family: "Montserrat";
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 73px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 41px;
+}
+
+.title__line{
+    margin-left: 0px;
+    width: 1218px;
+    border: none;
+    height: 1px;
+    background: #E5E5E5;
+    margin-bottom: 14px;
+}
+
+.title__line__second{
+    margin-left: 0px;
+    width: 1218px;
+    border: none;
+    height: 1px;
+    background: #E5E5E5;
+    margin-bottom: 81px;
+}
+
+.home__page{
+    box-sizing: border-box;
+    display: inline-flex;
+    margin-bottom: 10px;
+
+}
+
+.look{
+  margin-left: 8.44px;
+  margin-right: 7.44px;
+}
+
+.title__p{
+    font-family: "Montserrat";
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #B1B1B1;
+}
+
+
+.text__container{
+    width: 1218px;
+}
+
+.title__p__colored{
+    font-family: "Montserrat";
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0em;
+    color: #4C858B
+}
+
+.main__text{
+    font-family: "Montserrat";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    
+}
+
+.red__colored{
+    box-sizing: border-box;
+    font-family: "Montserrat";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #e33e54;
+}
+
+.picture__content{
+    display: flex;
+    box-sizing: content-box;
+    font-family: "Montserrat";
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 63px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 17px;
+
+}
+
+.huge__words{
+    font-family: "Montserrat";
+    font-size: 50px;
+    font-weight: 800;
+    line-height: 63px;
+    letter-spacing: 0em;
+    text-align: left;
+    text-transform: uppercase;
+    color: #e33e54;
+    margin-bottom: 39px;
+
+}
+
+.picture__content__text{
+    width: 629px;
+    height: 123px;
+    margin-top: 30px;
+    margin-left: -2px;
+    margin-bottom: 20px;
+}
+
+.picture__content__list{
+    height: 360px;
+    width: 629px;
+    margin-top: 39px;
+    line-height: 24px;
+    margin-left: 44px;
+    font-family: "Montserrat";
+    font-size: 16px;
+    font-weight: 400;
+    list-style-image: url(../../assets/images/little_ellipse.svg);
+}
+
+.picture__content__list:last-child {
+    margin-bottom: 0px;
+}
+
+.li__bottom-margin{
+    margin-bottom: 25px;
+    padding-left: 10px;
+}
+
+.picture__place{
+    position: relative;
+    height: 541px;
+    width: 766px;
+    left: -70px;
+}
+
+.column{
+    flex-direction: column;
+    box-sizing: content-box;
+
+}
+
+.fat__red__line{
+    margin-top: 114px;
+    background-color: #E33E54;
+    height: 5px;
+    width: 74px;
+    margin-bottom: 11px;
+
+}
+
+.space{
+    height: 1000px;
+    width: 1000px;
+    background-color: rgb(63, 63, 63);
+}
+
+h2{
+    font-family: "Montserrat";
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 49px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.process__steps{
+    display: inline-flex;
+    flex-direction: column;
+    margin-top: 51px;
+}
+
+.step__inline__first{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.step__inline__second{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 13px;
+}
+
+.step__inline__third{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 13px;
+}
+
+.huge__number{
+
+    height: 85px;
+    width: 28px;
+    left: 352px;
+    top: 1311px;
+    opacity: 20%;
+    color: #E33E54;
+    font-family: "Montserrat";
+    font-size: 70px;
+    font-weight: 700;
+    line-height: 85px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-right: 42px;
+}
+
+.process__steps__last{
+    display: inline-flex;
+    flex-direction: column;
+    margin-top: 51px;
+    margin-left: 70px;
+}

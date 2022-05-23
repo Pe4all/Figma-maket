@@ -86,24 +86,25 @@ table {
 	border-spacing: 0;
 }
 
-
-
 *{
   background-color: #FFFFFF;
 }
 
 .wrapper{ 
- margin: 0 auto;
- max-width: 1920px;
- font-family: 'Montserrat';
+  /* position: sticky;
+  top: 0; */
+  margin: 0 auto;
+  max-width: 1920px;
+  font-family: 'Montserrat';
 }
 
 .header__wrapper{
- display: inline-flex;
- margin: 26px 0px 0px 63px;
- flex-wrap: wrap;
- align-items: center;
- justify-content: space-between;
+
+  display: inline-flex;
+  margin: 26px 0px 0px 63px;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .header__logo{
@@ -176,8 +177,6 @@ table {
 
 .header__item:last-child{
   margin-right: 97px;
-
-
 }
 
 .phone__number{
@@ -214,7 +213,7 @@ table {
 /*   border-bottom: 1px dashed red; */
 }
 
-hr {
+.call__me__line {
   height: 0px;
   width: 150px;
   left: 1195px;
